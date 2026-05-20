@@ -3,7 +3,7 @@ diff
 
 .vscode
 
-.env
+#.env
 
 */node_modules
 */.env
